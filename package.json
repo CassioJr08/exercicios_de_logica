@@ -1,12 +1,13 @@
 {
-  "name": "exercios_javascript",
+  "name": "treinando_logica_js",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "gasto_de_combustivel.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
